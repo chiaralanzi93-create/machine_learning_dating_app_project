@@ -18,6 +18,14 @@
 
 ---
 
+## Presentation
+
+📊 **Project Slides (Canva)**  
+View the full presentation here:  
+👉 https://www.canva.com/design/DAG-bS4Xx9Q/Ezfifk2RZBerM0oKQ0Lvew/edit?utm_content=DAG-bS4Xx9Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+---
+
 ## Project Overview
 
 This project explores whether **mutual matches on a dating app can be predicted** using supervised machine learning techniques.
